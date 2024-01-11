@@ -1,0 +1,25 @@
+Backend - npm init
+install Express, nodemon
+application up and running on port 1234
+Login,register, post, comments, likes               ^api^
+project structure for scalable application
+-------------------------------------------------------------
+modules : features of application
+controller: request and response handling
+models: schema structure
+routes: application navigation - validation required to get only valid requests: Middleware
+services: DB crud operation
+
+Login:
+- routes
+- controller request logic
+- service (find)
+- token generation
+
+
+
+
+
+
+ODM object dom   -----------------------------(nosql(mongo))
+ORM Object-Relational Mapping --------------- mysql
